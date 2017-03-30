@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/jeonnoej/do-eslint#readme",
   "devDependencies": {
-    "eslint": "^3.18.0"
+    "eslint": "^3.18.0",
+    "eslint-config-airbnb-base": "^11.1.2",
+    "eslint-config-naver": "^1.0.0",
+    "eslint-plugin-import": "^2.2.0"
   }
 }
