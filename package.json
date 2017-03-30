@@ -1,0 +1,25 @@
+{
+  "name": "do-eslint",
+  "version": "0.0.1",
+  "description": "eslint Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeonnoej/do-eslint.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "jeonnoej",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeonnoej/do-eslint/issues"
+  },
+  "homepage": "https://github.com/jeonnoej/do-eslint#readme",
+  "devDependencies": {
+    "eslint": "^3.18.0"
+  }
+}
