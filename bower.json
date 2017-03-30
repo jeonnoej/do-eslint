@@ -1,0 +1,23 @@
+{
+  "name": "do-eslint",
+  "description": "eslint Test",
+  "main": "index.js",
+  "authors": [
+    "jeonnoej"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "eslint"
+  ],
+  "homepage": "https://github.com/jeonnoej/do-eslint",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
